@@ -1,0 +1,9 @@
+ultralytics
+torch
+torchvision
+torchmetrics
+effdet
+opencv-python
+numpy
+pandas
+matplotlib
